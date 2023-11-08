@@ -1,0 +1,12 @@
+**/*.js
+node_modules
+build
+jest.config.js
+babel.config.js
+jest.config.unit.ts
+jest.config.integration.ts
+/src/react-app-env.d.ts
+/src/reportWebVitals.ts
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
